@@ -33,5 +33,5 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashfaq-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/-ashfaq-ahamed/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashfaq-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-ashfaq-ahamed/)
 
