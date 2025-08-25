@@ -5,23 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Aspiring+ML+Engineer+%7C+Data+Science+Enthusiast;Python+%26+C%2B%2B+%7C+Competitive+Programmer" alt="Typing SVG" />
 </p>
 
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najat-ttt&label=Profile%20Views&color=00FFD1&style=flat-square" alt="Profile Views" />
-</p>
+- 🎓 I'm a **2nd Year CSE Student at RUET**  
+- 🤖 Passionate about **Machine Learning** and **Data Science**  
+- 💻 Skilled in **Python, C++**, Problem Solving & Competitive Programming  
+- 🌐 Interested in **Web Development** & **Cloud Computing**  
+- 📊 Exploring the world of **Artificial Intelligence & Data-driven Systems**  
+- 🚀 Always eager to learn new technologies and build impactful projects  
 
----
-
-## 🧠 About Me
-
-- 🚀 Currently working on **Student Attendance Management System (Flutter + Firebase)**
-- 📚 Learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Cloud Functions**
-- 🛡️ Passionate about **Secure Mobile App Development** and **Ethical Hacking**
-- 🤝 Open to collaborating on **Open-Source Projects** and **Security Tools**
-- 📩 Contact me: **siamnajat02@gmail.com**
-- 💬 Motto: _**"Code Hard. Think Deep. Stay Unstoppable."**_
-
----
 
 ## 🛠️ Tech Stack
 
