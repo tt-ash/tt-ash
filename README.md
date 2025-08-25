@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">2nd year CSE Student at RUET | Aspiring ML Engineer | Python & C++ | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Aspiring+ML+Engineer+%7C+Data+Science+Enthusiast;Python+%26+C%2B%2B+%7C+Competitive+Programmer" alt="Typing SVG" />
