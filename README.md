@@ -31,32 +31,8 @@
 ### Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najat-ttt&theme=algolia&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najat-ttt&show_icons=true&theme=algolia&hide_border=true&icon_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najat-ttt&layout=compact&theme=algolia&hide_border=true&bg_color=000000" alt="Top Languages" />
-</p>
-
----
-
-
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sheikhsiamnajat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/snajat146" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
-  <a href="https://instagram.com/najat_t28" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-</p>
+  <a href="https://www.linkedin.com/in/-ashfaq-ahamed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 
----
-
-<h3 align="center">🔥 Keep Pushing Boundaries 🔥</h3>
