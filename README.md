@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=2nd+Year+CSE+Student+at+RUET;Aspiring+ML+Engineer+%7C+Data+Science+Enthusiast;Python+%26+C%2B%2B+%7C+Competitive+Programmer;Exploring+AI+%7C+Web+Development+%7C+Cloud+Computing;Keep+Learning+%26+Building...+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=2nd+Year+CSE+Student+at+RUET;Aspiring+ML+Engineer+%7C+Data+Science+Enthusiast;Python+%26+C%2B%2B+%7C+Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 
