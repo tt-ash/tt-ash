@@ -10,7 +10,7 @@
 - 🎓 I'm a **2nd Year CSE Student at RUET**  
 - 🤖 Passionate about **Machine Learning** and **Data Science**  
 - 💻 Skilled in **Python, C++**, Problem Solving & Competitive Programming  
-- 🌐 Interested in **Web Development** & **Cloud Computing**  
+- 🌐 Interested in **Web Development**  
 - 📊 Exploring the world of **Artificial Intelligence & Data-driven Systems**  
 - 🚀 Always eager to learn new technologies and build impactful projects  
 
@@ -19,9 +19,9 @@
 
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+[C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+[C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### Frameworks & Libraries  
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23323330.svg?style=for-the-badge&logo=python&logoColor=white) 
