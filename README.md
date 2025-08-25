@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sheikh Siam Najat</h1>
-<h3 align="center">Software Developer | CSE Student @ RUET | Mobile Dev & Cybersecurity Enthusiast | Open-Source Advocate</h3>
+<h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+CSE+Student+at+RUET+%7C+Cybersecurity+Enthusiast;Building+Secure%2C+Scalable+Apps...+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=2nd+Year+CSE+Student+at+RUET;Aspiring+ML+Engineer+%7C+Data+Science+Enthusiast;Python+%26+C%2B%2B+%7C+Competitive+Programmer;Exploring+AI+%7C+Web+Development+%7C+Cloud+Computing;Keep+Learning+%26+Building...+🚀" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=najat-ttt&label=Profile%20Views&color=00FFD1&style=flat-square" alt="Profile Views" />
