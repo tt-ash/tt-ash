@@ -1,49 +1,65 @@
-# 👋 Hi, I'm Ashfaq  
+<h1 align="center">Hi 👋, I'm Sheikh Siam Najat</h1>
+<h3 align="center">Software Developer | CSE Student @ RUET | Mobile Dev & Cybersecurity Enthusiast | Open-Source Advocate</h3>
 
-🎓 2nd Year CSE Student @ RUET  
-💻 Passionate about Problem Solving, Web Development & Machine Learning  
-🌱 Currently learning **React**, **Machine Learning**, and **Cloud Computing**  
-📫 Reach me at: [Your Email] | [LinkedIn Profile]  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+CSE+Student+at+RUET+%7C+Cybersecurity+Enthusiast;Building+Secure%2C+Scalable+Apps...+🚀" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 Skills & Tools  
-- **Languages:** Python, C++, C, JavaScript  
-- **Frameworks & Libraries:** Tkinter, React, Node.js, NumPy, Pandas  
-- **Databases:** MySQL, SQLite  
-- **Other Tools:** Git, GitHub, VS Code  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=najat-ttt&label=Profile%20Views&color=00FFD1&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 📌 Featured Projects  
+## 🧠 About Me
 
-### 🏫 RUET Hall Management System  
-🔹 Tkinter + MySQL based system for student hall management  
-🔹 Features: Login/Signup, Meal Tracking, Payment System, Admin Controls  
-🔹 [View Repository](https://github.com/YourUsername/Hall-Management-System)
-
-### 🎟️ Online Ticket Booking System  
-🔹 Buy tickets online with payment integration  
-🔹 Technologies: Python, SQL  
-🔹 [View Repository](https://github.com/YourUsername/Ticket-Booking-System)
-
-### 🤖 Text Summarization using Machine Learning  
-🔹 ML model for automatic text summarization  
-🔹 Tools: Python, Scikit-learn, NLTK  
-🔹 [View Repository](https://github.com/YourUsername/Text-Summarization-ML)
+- 🚀 Currently working on **Student Attendance Management System (Flutter + Firebase)**
+- 📚 Learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Cloud Functions**
+- 🛡️ Passionate about **Secure Mobile App Development** and **Ethical Hacking**
+- 🤝 Open to collaborating on **Open-Source Projects** and **Security Tools**
+- 📩 Contact me: **siamnajat02@gmail.com**
+- 💬 Motto: _**"Code Hard. Think Deep. Stay Unstoppable."**_
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
+<p align="center">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFD1" alt="Flutter"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart"/></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/></a>
+  <a href="https://python.org" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/></a>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourProfile)  
-- Email: yourname@email.com  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=najat-ttt&theme=algolia&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najat-ttt&show_icons=true&theme=algolia&hide_border=true&icon_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najat-ttt&layout=compact&theme=algolia&hide_border=true&bg_color=000000" alt="Top Languages" />
+</p>
+
+---
+
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sheikhsiamnajat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/snajat146" target="_blank"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+  <a href="https://instagram.com/najat_t28" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+</p>
+
+---
+
+<h3 align="center">🔥 Keep Pushing Boundaries 🔥</h3>
